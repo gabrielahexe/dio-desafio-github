@@ -1,0 +1,5 @@
+Git bash here
+
+cd "nome do repositório"
+
+git commit
